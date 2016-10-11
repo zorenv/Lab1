@@ -171,6 +171,7 @@ public class calculate {
 
 
 }
+//these are examples
 /* 
  * 测试1 给全部变量赋值，并得到最终计算结果
  * 30*2+6*8*x*x+9*x*y 
