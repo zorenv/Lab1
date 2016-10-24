@@ -1,0 +1,5 @@
+Found a 1 line (33 tokens) duplication in the following files: 
+Starting at line 104 of D:\ѧϰ\SE\Lab-4\Lab4\Lab4\src\Expression\Calculate.java
+Starting at line 105 of D:\ѧϰ\SE\Lab-4\Lab4\Lab4\src\Expression\Calculate.java
+
+								|| 120 <= (int) summ[k][j].charAt(0) && (int) summ[k][j].charAt(0) <= 122) {
